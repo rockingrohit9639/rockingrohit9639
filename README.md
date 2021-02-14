@@ -1,4 +1,4 @@
-### Hey <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/ 👋
+### Hey <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 👋
 
 I am Rohit Kumar Saini. I am a BCA student studinng in 2nd year in ITS Ghaziabad college. I am very much interested in learning new technologies and I always try to learn as more as possible. Recently I am selected for the training by DevIincept for NLP and I am very happy to learn from them.
 
