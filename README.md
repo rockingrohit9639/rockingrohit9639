@@ -8,3 +8,6 @@ I am Rohit Kumar Saini. I am a BCA student studinng in 2nd year in ITS Ghaziabad
 - 💬 Ask me about C, C++, Python, HTML, CSS, JavaScript etc.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rohit-kumar-saini/) or [Facebook](https://www.facebook.com/profile.php?id=100007325041744)
 - ⚡ Fun fact: I used to think that You must type "www" before a web address.
+
+# GitHub Stats
+![Rohit Kumar Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockingrohit9639)
