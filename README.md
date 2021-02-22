@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Rohit%20Kumar%20Saini&fontSize=90)
 ### Hey <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 👋
 
 I am Rohit Kumar Saini. I am a BCA student studinng in 2nd year in ITS Ghaziabad college. I am very much interested in learning new technologies and I always try to learn as more as possible. Recently I am selected for the training by DevIincept for NLP and I am very happy to learn from them.
@@ -32,6 +33,7 @@ I am Rohit Kumar Saini. I am a BCA student studinng in 2nd year in ITS Ghaziabad
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
 # GitHub Stats
 ![Rohit Kumar Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockingrohit9639)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&fontSize=90)
