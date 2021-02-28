@@ -2,10 +2,9 @@
 ### Hey <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 👋
 ------------------
 
-I am Rohit Kumar Saini. I am a BCA student studinng in 2nd year in ITS Ghaziabad college. I am very much interested in learning new technologies and I always try to learn as more as possible. Recently I am selected for the training by DevIincept for NLP and I am very happy to learn from them.
+I am Rohit Kumar Saini. I am a BCA student studying in 2nd year in ITS Ghaziabad college. I am very much interested in learning new technologies and I always try to learn as more as possible.
 
 - 🌱 I’m currently learning ExpressJs.
-- 🤔 I’m looking for help with Open Source Contribution.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rohit-kumar-saini/) or [Facebook](https://www.facebook.com/profile.php?id=100007325041744)
 - ⚡ Fun fact: I used to think that You must type "www" before a web address.
 
