@@ -2,12 +2,33 @@
 ### Hey <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 👋
 ------------------
 
-I am Rohit Kumar Saini. I am a BCA student studying in 2nd year in ITS Ghaziabad college. I am very much interested in learning new technologies and I always try to learn as more as possible.
+<a href="https://discord.gg/KThPCXCaJE">
+  <img align="left" alt="Rohit Saini's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rohit-kumar-saini/">
+  <img align="left" alt="Rohit Saini's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a><br>
 
-- 🌱 I’m currently learning ExpressJs.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rohit-kumar-saini/) or [Facebook](https://www.facebook.com/profile.php?id=100007325041744)
-- ⚡ Fun fact: I used to think that You must type "www" before a web address.
-
+```js
+<Bio 
+  name= { "Rohit Kumar Saini" }
+  course = { "BCA" }
+  year = {2}
+  college= { "Institute of Technology and Science, Ghaziabad" } 
+/>
+```
+```c
+printf("Currently learning %s", "ExpressJs");
+```
+```c++
+cout<<"Passionate "<< FullStackDeveloper <<endl;
+```
+```python
+print(f"Country : {India}")
+```
+```js
+console.log(`Fun Fact - I used to think that You must type "www" before a web address`);
+```
 ------------------
 
 ### 🛠 &nbsp;Tech Stack
