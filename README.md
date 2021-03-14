@@ -31,6 +31,8 @@ console.log(`Fun Fact - I used to think that You must type "www" before a web ad
 ```
 ------------------
 
+ <img align="right" alt="Coding" src="https://github.com/rockingrohit9639/rockingrohit9639/blob/main/coding.gif" width="500" height="320" /><br>
+
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
