@@ -7,7 +7,7 @@
 </a>
 <a href="https://www.linkedin.com/in/rohit-kumar-saini/">
   <img align="left" alt="Rohit Saini's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a><br>
+</a><br><br>
 
 ```js
 <Bio 
