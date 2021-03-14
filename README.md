@@ -9,6 +9,7 @@
   <img align="left" alt="Rohit Saini's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><br><br>
 
+
 ```js
 <Bio 
   name= { "Rohit Kumar Saini" }
@@ -17,6 +18,9 @@
   college= { "Institute of Technology and Science, Ghaziabad" } 
 />
 ```
+
+<img align="right" alt="Coding" src="https://github.com/rockingrohit9639/rockingrohit9639/blob/main/coding.gif" width="500" height="320" /><br>
+
 ```c
 printf("Currently learning %s", "ExpressJs");
 ```
@@ -27,11 +31,10 @@ cout<<"Passionate "<< FullStackDeveloper <<endl;
 print(f"Country : {India}")
 ```
 ```js
-console.log(`Fun Fact - I used to think that You must type "www" before a web address`);
+console.log(`Get Set Code !!!`);
 ```
 ------------------
 
- <img align="right" alt="Coding" src="https://github.com/rockingrohit9639/rockingrohit9639/blob/main/coding.gif" width="500" height="320" /><br>
 
 ### 🛠 &nbsp;Tech Stack
 
