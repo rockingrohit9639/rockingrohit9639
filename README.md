@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Rohit%20Kumar%20Saini&fontSize=90)
 ### Hey <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 👋
 ------------------
-
-<a href="https://discord.gg/KThPCXCaJE">
-  <img align="left" alt="Rohit Saini's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+ 
 <a href="https://www.linkedin.com/in/rohit-kumar-saini/">
   <img align="left" alt="Rohit Saini's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><br><br>
