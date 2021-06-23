@@ -59,4 +59,4 @@ console.log(`Get Set Code !!!`);
 # GitHub Stats
 ![Rohit Kumar Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockingrohit9639)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&fontSize=90)
