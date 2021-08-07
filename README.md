@@ -16,7 +16,7 @@
 />
 ```
 
-<img align="right" alt="Coding" src="https://github.com/rockingrohit9639/rockingrohit9639/blob/main/coding.gif" width="350" height="350" /><br>
+<img align="right" alt="Coding" src="https://github.com/rockingrohit9639/rockingrohit9639/blob/main/coding.gif" width="350" height="250" /><br>
 
 ```c
 printf("Currently learning %s", "ExpressJs");
