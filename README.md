@@ -11,7 +11,7 @@
 <Bio 
   name= { "Rohit Kumar Saini" }
   course = { "BCA" }
-  year = {2}
+  year = {3}
   college= { "Institute of Technology and Science, Ghaziabad" } 
 />
 ```
