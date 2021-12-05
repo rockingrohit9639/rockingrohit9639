@@ -47,6 +47,7 @@ console.log(`Get Set Code !!!`);
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Express](https://img.shields.io/badge/-Express%20-333333?style=flat&logo=express)
+  ![PHP](https://img.shields.io/badge/-php%20-333333?style=flat&logo=php)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
