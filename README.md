@@ -7,29 +7,30 @@
 </a> जीवेषु करुणा चापि मैत्री तेषु विधीयताम् । ❤️ <br><br>
 
 
-```js
+```jsx
 <Bio 
   name= { "Rohit Kumar Saini" }
   course = { "BCA" }
-  year = {3}
   college= { "Institute of Technology and Science, Ghaziabad" } 
 />
 ```
 
-<img align="right" alt="Coding" src="https://github.com/rockingrohit9639/rockingrohit9639/blob/main/coding.gif" width="350" height="250" /><br>
-
-```c
-printf("Currently learning %s", "PHP");
-```
-```c++
-cout<<"Passionate "<< FullStackDeveloper <<endl;
-```
-```python
-print(f"Country : {India}")
-```
 ```js
 console.log(`Get Set Code !!!`);
 ```
+
+```c
+printf("Currently learning %s", "NestJs");
+```
+
+```c++
+cout<<"Passionate "<< FullStackDeveloper <<endl;
+```
+
+```python
+print(f"Country : {India}")
+```
+
 ------------------
 
 
