@@ -3,7 +3,7 @@
 ------------------
  
 <a href="https://www.linkedin.com/in/rohit-kumar-saini/">
-  <img align="left" alt="Rohit Saini's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rohit Saini's LinkedIN" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
 </a> जीवेषु करुणा चापि मैत्री तेषु विधीयताम् । ❤️ <br><br>
 
 
