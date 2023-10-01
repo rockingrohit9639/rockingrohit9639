@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Rohit%20Saini&fontSize=90)
+[![An image of @rockingrohit9639's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rockingrohit9639)](https://holopin.io/@rockingrohit9639)
 
 # Hi, I'm Rohit Saini 👋
 
