@@ -10,9 +10,9 @@ I'm a passionate full-stack developer with 2 years of experience. My mission is 
 ## 💼 Skills
 Here are some of the tools and technologies I work with:
 - 💻 JavaScript | TypeScript | Python | Go
-- 🌐 React.js | Next.js | Remix | Svelte | trpc | Django
+- 🌐 React.js | Next.js | Remix | trpc
 - 📦 HTML | CSS | Tailwind CSS
-- 🐘 SQLite | MySQL | PostgreSQL | MongoDB
+- 🐘 SQLite | PostgreSQL | MongoDB
 - 🍃 Prisma | DrizzleORM 
 - ⚙️ And more...
 
